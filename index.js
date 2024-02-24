@@ -3,8 +3,6 @@ const generateReadme = require('./generateReadme');
 const fs = require('fs');
 const util = require('util');
 
-const generateReadme = require('.');
-
 const writeFileAsync = util.promisify(fs.writeFile);
 
 // Array of questions for user input
