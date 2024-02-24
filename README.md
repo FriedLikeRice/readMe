@@ -1,13 +1,16 @@
 
 # Readme Generator
 
+## License
+![License Badge](https://img.shields.io/badge/License-MIT-brightgreen)
+This application is covered under the MIT license.
+
 ## Description
-Prompts user for information and generates read me
+generates readme off of prompted questions
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -16,17 +19,13 @@ Prompts user for information and generates read me
 n/a
 
 ## Usage
-in terminal init by using node index then follow prompts
-
-## License
-![License Badge](https://img.shields.io/badge/License-n/a-brightgreen)
-This application is covered under the n/a license.
+use to generate professional read me
 
 ## Contributing
-starter files provided by bootcamp repo
+bootcamp provided base files
 
 ## Tests
-ran tests to fix following errors, generate readme js not properly called, table of contents not linked, called generate readme js twice causing an error
+undefined
 
 ## Questions
 GitHub: [https://github.com/FriedLikeRice/readMe](https://github.com/https://github.com/FriedLikeRice/readMe)
